@@ -1,0 +1,34 @@
+#addresses-page{
+    text-align: center;
+}
+
+#addresses-page #title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#addresses-actions{
+    margin-bottom: 20px;
+}
+
+#details-modal{
+    text-align: center;
+}
+
+#details-modal > h2 {
+    margin-bottom: 20px;
+}
+
+#details-modal > form {
+    margin-bottom: 20px;
+}
+
+#raw-input{
+    width: 400px;
+}
+
+#pagination{
+    margin-bottom: 20px;
+}

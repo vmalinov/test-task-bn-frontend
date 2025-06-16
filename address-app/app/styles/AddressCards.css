@@ -1,0 +1,14 @@
+#card{
+    padding: 10px;
+}
+#card>div{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#card>#info{
+    text-align: left;
+    width: 400px;
+}
